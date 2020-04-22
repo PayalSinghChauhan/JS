@@ -1,0 +1,25 @@
+.design {
+    font-family: Arial;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+  
+  .design td, .design th {
+    border: 1px;
+    padding: 8px;
+  }
+ 
+  .design th 
+  {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #425df5;
+    color: white;
+  }
+  /* .tbl
+  {
+    text-align: center;
+    margin-right: 50%;
+  } */
